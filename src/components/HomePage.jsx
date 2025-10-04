@@ -45,7 +45,7 @@ const HomePage = () => {
         <div className="md:flex justify-between pl-[20px] md:pl-[100px] pt-[50px] items-center">
           <div className=" md:hidden mb-8">
             <div className=" bg-gray-50  rounded-full w-[150px] h-[150px] md:w-[260px] md:h-[260px] flex  overflow-hidden border-2 border-[#a4a4df]">
-              <img
+              <Image
                 src={Home}
                 alt="img"
                 className=" object-cover object-center pr-4"
